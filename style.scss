@@ -77,7 +77,7 @@ body {
       position: relative;
       color: white;
       .jumbotron {
-        background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url("/background.jpg");
+        background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url("./background.jpg");
         background-size: cover;
         height: 100vh;
         margin: 0;
